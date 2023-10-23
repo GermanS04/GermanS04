@@ -1,13 +1,12 @@
-<head>
-  <style>
-    header {
-        color:red;
-      }
-  </style>
-</head>
+<h1 align="center">Hi, I’m Germán</h1>
 
-<div id="header" align="center">
-  Hi, I’m Germán
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/german-salas-martinez/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">   
+  </a>
+  <a href = "mailto: german.salasmar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 - I’m interested in competitive programming
